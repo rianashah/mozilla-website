@@ -3,7 +3,8 @@ p {
   width: 500px;
   border: 1px solid black;
 }
-=======
+
+
 /* element selector*/
 p {
 	color: black;
@@ -19,4 +20,8 @@ p {
 .mainquote{
 	color: green;
 	border: 5px solid black;
+}
+
+.onclick{
+	color: pink;
 }
